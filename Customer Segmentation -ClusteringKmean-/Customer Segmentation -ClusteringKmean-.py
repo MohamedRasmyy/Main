@@ -100,7 +100,7 @@ plt.show()
 
 age18to25 = data.Age[(data.Age <= 25) & (data.Age >= 18)]
 age26to35 = data.Age[(data.Age <= 35) & (data.Age >= 26)]
-#age36to45 = data.Age[(data.Age <= 45) & (data.Age >= 36)]
+age36to45 = data.Age[(data.Age <= 45) & (data.Age >= 36)]
 age46to55 = data.Age[(data.Age <= 55) & (data.Age >= 46)]
 age55above = data.Age[data.Age >= 56]
 x = ["18-25","26-35","36-45","46-55","55+"]
