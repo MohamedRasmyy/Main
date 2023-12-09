@@ -1,4 +1,4 @@
-sing a random seed for training and test sets, instead of training images which might take a long time. Inputs consist of 2 features,
+- Using a random seed for training and test sets, instead of training images which might take a long time. Inputs consist of 2 features,
 first layer consist of 4 neurons and the activation of this layer is relu function, and output layer consist of 1 neuron and the activation of
 this layer is 
 sigmoid, if the prediction with bigger than half so it’s a cat if it’s not it’s a dog for example, this is what the example is speaking about.
