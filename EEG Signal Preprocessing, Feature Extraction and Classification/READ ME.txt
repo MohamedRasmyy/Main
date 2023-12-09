@@ -1,0 +1,3 @@
+In this project files, we learned the pipline and workflow of BCI system including data acquiction, pre-processing by making segmentaion for the signal,and normalize the data using Z score method or uniform normalization method,
+feature extraction (optional) using AE, 
+classification using CNN
