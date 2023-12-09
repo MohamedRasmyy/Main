@@ -1,0 +1,7 @@
+Apply reinforcement learning to automatically design a policy for difficult control task, without ever using any explicit knowledge of the
+dynamics of the underlying system.
+- By initializing random values for transition probabilities, transition counts, reward count, reward, and value, and depending on this
+initialization the algorithm will take an action and we let it fails sometimes to learn, and then we update the initialization and we will use
+value iteration algorithm to update the value
+- Our objective is to develop a controller to balance the pole with these constraints, by 
+appropriately having the cart accelerate left and right.
